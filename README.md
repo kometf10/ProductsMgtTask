@@ -2,6 +2,7 @@
 Testing Task
 
 StartUp Steps:
+
 0- Open the project with Visual Studio 2019 v16.3.8 or higher 
 
 1- Update the Default connection string to match your database server (Found in folder OA_API -> appsettings.json ) 
