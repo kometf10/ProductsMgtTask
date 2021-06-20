@@ -8,10 +8,10 @@ StartUp Steps:
 1- Update the Default connection string to match your database server (Found in folder OA_API -> appsettings.json ) 
 
 2- Run Data Migration
-   2.0- Delete Existing Migration in folder OA.DataAccess -> Migrations
-   2.1- Open Package Manager Console
-   2.2- Set DataAccess as default project
-   2.3- Run Commands:  Add-Migration Init
+   - Delete Existing Migration in folder OA.DataAccess -> Migrations
+   - Open Package Manager Console
+   - Set DataAccess as default project
+   - Run Commands:  Add-Migration Init
                       Update-DataBase
                       
 3- Run the Project Then Open the API Description on link https://localhost:44301/index.html
