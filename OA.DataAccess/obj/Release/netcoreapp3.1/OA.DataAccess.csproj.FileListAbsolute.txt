@@ -1,0 +1,26 @@
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csproj.CopyComplete
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.DataAccess.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\bin\Release\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.csproj.CopyComplete
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.DataAccess\obj\Release\netcoreapp3.1\OA.DataAccess.pdb

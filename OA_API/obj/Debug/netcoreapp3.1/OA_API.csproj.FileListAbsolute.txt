@@ -1,0 +1,1329 @@
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domain.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domain.pdb
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.GenerateResource.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 1\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.GenerateResource.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 2\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 2\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 3\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.GenerateResource.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 3\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 4\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.GenerateResource.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\ar-SY\OA_API.resources.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 4\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 5\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 6\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 6\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 7\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 7\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\OA_API.styles.css
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 11\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\OA_API.styles.css
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 11\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\OA_API.styles.css
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\OA_API.styles.css
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\HtmlToOpenXml.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.csprojAssemblyReference.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfoInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.AssemblyInfo.cs
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CoreCompileInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.exe
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.deps.json
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.json
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.runtimeconfig.dev.json
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA_API.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\HtmlToOpenXml.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.Manifest.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\staticwebassets\OA_API.StaticWebAssets.xml
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\OA_API.styles.css
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.RazorTargetAssemblyInfo.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.csproj.CopyComplete
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA_API\obj\Debug\netcoreapp3.1\OA_API.genruntimeconfig.cache

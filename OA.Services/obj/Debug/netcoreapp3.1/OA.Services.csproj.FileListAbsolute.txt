@@ -1,0 +1,208 @@
+D:\.net core Template\Try 1\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 1\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 1\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 1\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domain.dll
+D:\.net core Template\Try 1\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domain.pdb
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 1\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 2\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 2\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 2\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 2\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 2\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 2\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 3\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 3\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 3\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 3\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 3\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 4\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 4\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 5\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 7\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 7\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 11\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 11\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.DataAccess.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\OA.Domin.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\bin\Debug\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb

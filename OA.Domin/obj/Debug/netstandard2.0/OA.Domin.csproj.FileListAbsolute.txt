@@ -1,0 +1,167 @@
+D:\.net core Template\Try 2\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 2\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 2\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 2\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 3\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 3\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 3\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 4\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 4\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 4\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 5\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 5\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 5\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 5\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 6\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 6\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 6\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 6\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 7\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 7\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 7\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 7\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 7\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 8 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 9 PWA\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 10 PWA with Full Audit\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 11\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 11\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 11\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 11\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 11\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.cs
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.deps.json
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\bin\Debug\netstandard2.0\OA.Domin.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\bin\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.dll
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.pdb
+D:\Projects\CQRS .Net core Product Managment Task\OA.Domin\obj\Debug\netstandard2.0\OA.Domin.csprojAssemblyReference.cache

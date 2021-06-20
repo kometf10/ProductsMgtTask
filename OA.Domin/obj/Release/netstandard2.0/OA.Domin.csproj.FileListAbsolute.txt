@@ -1,0 +1,28 @@
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\bin\Release\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Release\netstandard2.0\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\bin\Release\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.Resources.CommonResources.ar-SY.resources
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.Resources.Controllers.ErrorController.ar-SY.resources
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csproj.GenerateResource.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Domin\obj\Release\netstandard2.0\OA.Domin.pdb

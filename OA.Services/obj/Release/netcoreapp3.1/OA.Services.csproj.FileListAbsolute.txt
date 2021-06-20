@@ -1,0 +1,32 @@
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.deps.json
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Domin.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.DataAccess.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Domin.pdb
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\bin\Release\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.dll
+D:\.net core Template\Try 12 VS-Testing\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.deps.json
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.DataAccess.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Domin.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.DataAccess.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\OA.Domin.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\ar-SY\OA.Domin.resources.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.csproj.CopyComplete
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.dll
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\obj\Release\netcoreapp3.1\OA.Services.pdb
+D:\Al Ibda3 Bank Portal\OA_sln\OA.Services\bin\Release\netcoreapp3.1\itextsharp.dll

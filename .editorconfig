@@ -1,0 +1,19 @@
+﻿[*.{cs,vb}]
+
+# IDE0017: Simplify object initialization
+dotnet_style_object_initializer = true:silent
+
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = true:silent
+
+# IDE0066: Convert switch statement to expression
+csharp_style_prefer_switch_expression = true:silent
+
+# IDE0019: Use pattern matching
+csharp_style_pattern_matching_over_as_with_null_check = true:silent
+
+# IDE0052: Remove unread private members
+dotnet_diagnostic.IDE0052.severity = none
+
+# CS0693: Type parameter has the same name as the type parameter from outer type
+dotnet_diagnostic.CS0693.severity = none
