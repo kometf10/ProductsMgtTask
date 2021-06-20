@@ -11,8 +11,8 @@ StartUp Steps:
    - Delete Existing Migration in folder OA.DataAccess -> Migrations
    - Open Package Manager Console
    - Set DataAccess as default project
-   - Run Commands:  Add-Migration Init
-                      Update-DataBase
+   - Run Commands:  - Add-Migration Init
+                    - Update-DataBase
                       
 3- Run the Project Then Open the API Description on link https://localhost:44301/index.html
 
