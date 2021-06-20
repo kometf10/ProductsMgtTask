@@ -16,14 +16,14 @@ StartUp Steps:
                       
 3- Run the Project Then Open the API Description on link https://localhost:44301/index.html
 
-4- Seed Data
+4- Seed Data : 
   Use SeedData/SeedUser API to add user with admin role
     This will create user with credentials (Email: Admin@app.com, Password: Admin@123)
   Use SeedData/SeedProduct API to add test products and categories
   
-5- Authorize 
+5- Authorize : 
   Use Auth/Login API with the admin credentials that mentioned above to get an access token
 
-6- Testing 
+6- Testing : 
 	Use Swagger or Postman to test the products and category api’s 
 	Use Visual Studio to run the API integration tests that provided in the OA.Tests Project
